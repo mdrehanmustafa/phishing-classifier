@@ -6,6 +6,7 @@ model_selection:
            - 3
            - 5
            - 7
+        
            - 9
            - 11
           n_estimators:
